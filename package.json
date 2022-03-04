@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "lodash": "^4.17.21",
+    "request": "^2.88.2",
+    "sprintf-js": "^1.1.2"
+  },
+  "name": "spay-nodejs",
+  "version": "1.0.6"
+}
