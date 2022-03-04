@@ -1,1 +1,1 @@
-The keys in the key folder are fake. Please use ur own generated private-public to run.
+The keys in the key folder are fake. Please use ur own generated private-public key to make it works.
